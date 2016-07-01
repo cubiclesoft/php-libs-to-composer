@@ -1,0 +1,26 @@
+{
+	"name": "cubiclesoft/to-composer",
+	"type": "library",
+	"description": "CubicleSoft PHP Software Development Libraries for Composer",
+	"keywords": ["CubicleSoft", "php", "startup", "app startup", "string", "calendar", "event", "csdb", "db", "database", "mysql", "oracle", "postgresql", "postgres", "sqlite", "csprng", "rng", "email", "sending", "smtp", "receiving", "pop3", "mime", "parser", "utf-8", "unicode", "ip", "ipaddr", "html filter", "tag filter", "web server", "websocket", "websocket client", "websocket server", "crc32", "deflate", "curl", "curl emulation layer", "http", "http client", "http server", "async", "simple html dom", "web browser", "web browser emulation layer"],
+	"homepage": "http://cubiclesoft.com/",
+	"license": "MIT",
+	"support": {
+		"source": "https://github.com/cubiclesoft/php-libs-to-composer"
+	},
+	"authors": [
+		{
+			"name": "CubicleSoft",
+			"email": "support@cubiclesoft.com",
+			"homepage": "http://cubiclesoft.com/",
+			"role": "Developer"
+		}
+	],
+	"require": {
+		"php": ">=5.5",
+		"pear/net_dns2": "1.*"
+	},
+	"autoload": {
+		"psr-4": { "CubicleSoft\\": "src/" }
+	}
+}
