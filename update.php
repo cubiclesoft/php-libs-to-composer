@@ -52,6 +52,10 @@
 		file_put_contents($destpath . "/" . $name . ".php", $data);
 	}
 
+	// CA certificates.
+	copy($srcpath . "/php-libs-namespaced/support/cacert.pem", $destpath . "/cacert.pem");
+	copy($srcpath . "/php-libs-namespaced/support/digitalocean_ca.pem", $destpath . "/digitalocean_ca.pem");
+
 	// Generate README.
 	copy($srcpath . "/php-libs-namespaced/readme_src/classes.json", $rootpath . "/readme_src/classes.json");
 	GenerateReadme($rootpath . "/readme_src/classes.json", $rootpath . "/readme_src/README.md", $rootpath . "/README.md", "\\\\CubicleSoft\\\\", $files, "src/", $srcpath);
