@@ -61,6 +61,7 @@ Other:
 
 * \\CubicleSoft\\CalendarEvent_TZSwitch - Internal or undocumented class.  (src/CalendarEvent_TZSwitch.php)
 * \\CubicleSoft\\CSDB_PDO_Statement - Internal or undocumented class.  (src/CSDB_PDO_Statement.php)
+* \\CubicleSoft\\Request - Internal or undocumented class.  (src/Request.php)
 * \\CubicleSoft\\simple_html_dom_node - Internal or undocumented class.  (src/simple_html_dom_node.php)
 * \\CubicleSoft\\WebServer_TempFile - Internal or undocumented class.  (src/WebServer_TempFile.php)
 * \\CubicleSoft\\WebServer_Client - Internal or undocumented class.  (src/WebServer_Client.php)
