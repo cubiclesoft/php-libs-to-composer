@@ -2,7 +2,7 @@
 	namespace CubicleSoft;
 ?><?php
 	// CubicleSoft PHP MIME Parser class.
-	// (C) 2014 CubicleSoft.  All Rights Reserved.
+	// (C) 2016 CubicleSoft.  All Rights Reserved.
 
 	// Load dependencies.
 
