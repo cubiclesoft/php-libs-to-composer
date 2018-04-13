@@ -3,6 +3,8 @@ CubicleSoft PHP Software Development Libraries for Composer
 
 A single repository containing all CubicleSoft PHP libraries in a CubicleSoft namespace and then made Composer ready.  Fully automated nightly updates.  MIT or LGPL, your choice.
 
+[![Donate](https://cubiclesoft.com/res/donate-shield.png)](https://cubiclesoft.com/donate/)
+
 How To Use
 ----------
 
@@ -23,11 +25,11 @@ Included and supported:
 * \\CubicleSoft\\CalendarEvent - Powerful scheduling class.  Feed in a cron line, get back the next timestamp of when something should trigger.  [Documentation](https://github.com/cubiclesoft/php-misc/blob/master/docs/calendar_event.md)  (src/CalendarEvent.php)
 * \\CubicleSoft\\CLI - Static functions in a class to extract command-line options, parse user input on the command-line, and log messages to the console.  Do you really need a separate logging library?  I don't.  [Documentation](https://github.com/cubiclesoft/php-misc/blob/master/docs/cli.md)  (src/CLI.php)
 * \\CubicleSoft\\CRC32Stream - Calculates CRC32 checksums in a streaming format.  [Documentation](https://github.com/cubiclesoft/ultimate-web-scraper/blob/master/docs/crc32_stream.md)  (src/CRC32Stream.php)
-* \\CubicleSoft\\CSDB - Cross-database, cross-platform, lightweight base class for interfacing with databases.  Designed specifically for developing open source applications where the target database is unknown.  Write each SQL query one time and have all queries automagically work for all supported databases.  Complete with all the standard features you expect in a SQL injection free database class.  Uses PDO by default.  (src/CSDB.php)
+* \\CubicleSoft\\CSDB - Cross-database, cross-platform, lightweight base class for interfacing with databases.  Designed specifically for developing open source applications where the target database is unknown.  Write each SQL query one time and have all queries automagically work for all supported databases.  Complete with all the standard features you expect in a SQL injection free database class.  Uses PDO by default.  [Documentation](https://github.com/cubiclesoft/csdb)  (src/CSDB.php)
 * \\CubicleSoft\\CSDB_mysql - Full MySQL/Maria DB interface.  (src/CSDB_mysql.php)
 * \\CubicleSoft\\CSDB_mysql_lite - Lightweight MySQL/Maria DB interface.  (src/CSDB_mysql_lite.php)
-* \\CubicleSoft\\CSDB_oci - Full Oracle DB interface (needs work).  (src/CSDB_oci.php)
-* \\CubicleSoft\\CSDB_oci_lite - Lightweight Oracle DB interface (needs work).  (src/CSDB_oci_lite.php)
+* \\CubicleSoft\\CSDB_oci - Full Oracle DB interface (beta).  (src/CSDB_oci.php)
+* \\CubicleSoft\\CSDB_oci_lite - Lightweight Oracle DB interface (beta).  (src/CSDB_oci_lite.php)
 * \\CubicleSoft\\CSDB_pgsql - Full PostgreSQL interface.  (src/CSDB_pgsql.php)
 * \\CubicleSoft\\CSDB_pgsql_lite - Lightweight PostgreSQL interface.  (src/CSDB_pgsql_lite.php)
 * \\CubicleSoft\\CSDB_sqlite - Full SQLite interface.  (src/CSDB_sqlite.php)

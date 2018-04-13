@@ -3,6 +3,8 @@ CubicleSoft PHP Software Development Libraries for Composer
 
 A single repository containing all CubicleSoft PHP libraries in a CubicleSoft namespace and then made Composer ready.  Fully automated nightly updates.  MIT or LGPL, your choice.
 
+[![Donate](https://cubiclesoft.com/res/donate-shield.png)](https://cubiclesoft.com/donate/)
+
 How To Use
 ----------
 
