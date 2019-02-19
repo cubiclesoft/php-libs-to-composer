@@ -71,7 +71,8 @@ Included and supported:
 
 Other:
 
-* \\CubicleSoft\\AES - Internal or undocumented class.  (src/AES.php)
+* \\CubicleSoft\\Crypt_AES - Internal or undocumented class.  (src/Crypt_AES.php)
+* \\CubicleSoft\\Crypt_Base - Internal or undocumented class.  (src/Crypt_Base.php)
 * \\CubicleSoft\\CalendarEvent_TZSwitch - Internal or undocumented class.  (src/CalendarEvent_TZSwitch.php)
 * \\CubicleSoft\\CSDB_PDO_Statement - Internal or undocumented class.  (src/CSDB_PDO_Statement.php)
 * \\CubicleSoft\\EFSS_FirstBlock - Internal or undocumented class.  (src/EFSS_FirstBlock.php)
@@ -83,7 +84,7 @@ Other:
 * \\CubicleSoft\\EFSS_SymlinkCopyHelper - Internal or undocumented class.  (src/EFSS_SymlinkCopyHelper.php)
 * \\CubicleSoft\\EFSS_FileCopyHelper - Internal or undocumented class.  (src/EFSS_FileCopyHelper.php)
 * \\CubicleSoft\\EFSSIncremental - Internal or undocumented class.  (src/EFSSIncremental.php)
-* \\CubicleSoft\\Rijndael - Internal or undocumented class.  (src/Rijndael.php)
+* \\CubicleSoft\\Crypt_Rijndael - Internal or undocumented class.  (src/Crypt_Rijndael.php)
 * \\CubicleSoft\\simple_html_dom_node - Internal or undocumented class.  (src/simple_html_dom_node.php)
 * \\CubicleSoft\\WebServer_TempFile - Internal or undocumented class.  (src/WebServer_TempFile.php)
 * \\CubicleSoft\\WebServer_Client - Internal or undocumented class.  (src/WebServer_Client.php)
