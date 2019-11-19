@@ -75,6 +75,8 @@ Included and supported:
 
 Other:
 
+Class not included.  Possible bug.  * \\CubicleSoft\\ArrayUtils - Implements missing functions for associative arrays.  [Documentation](https://github.com/cubiclesoft/php-misc/blob/master/docs/array_utils.md)
+Class not included.  Possible bug.  * \\CubicleSoft\\UTFUtils - Convert between various Unicode Transformation Formats (UTF-8, UTF-16, UTF-32).  [Documentation](https://github.com/cubiclesoft/php-misc/blob/master/docs/utf_utils.md)
 * \\CubicleSoft\\Crypt_AES - Internal or undocumented class.  (src/Crypt_AES.php)
 * \\CubicleSoft\\Crypt_Base - Internal or undocumented class.  (src/Crypt_Base.php)
 * \\CubicleSoft\\CalendarEvent_TZSwitch - Internal or undocumented class.  (src/CalendarEvent_TZSwitch.php)
