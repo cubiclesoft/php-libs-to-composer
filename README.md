@@ -94,8 +94,11 @@ Other:
 * \\CubicleSoft\\EFSS_SymlinkCopyHelper - Internal or undocumented class.  (src/EFSS_SymlinkCopyHelper.php)
 * \\CubicleSoft\\EFSS_FileCopyHelper - Internal or undocumented class.  (src/EFSS_FileCopyHelper.php)
 * \\CubicleSoft\\EFSSIncremental - Internal or undocumented class.  (src/EFSSIncremental.php)
+* \\CubicleSoft\\LibEvGenericServer - Internal or undocumented class.  (src/LibEvGenericServer.php)
 * \\CubicleSoft\\Crypt_Rijndael - Internal or undocumented class.  (src/Crypt_Rijndael.php)
+* \\CubicleSoft\\SerialNumber - Internal or undocumented class.  (src/SerialNumber.php)
 * \\CubicleSoft\\simple_html_dom_node - Internal or undocumented class.  (src/simple_html_dom_node.php)
+* \\CubicleSoft\\LibEvWebSocketServer - Internal or undocumented class.  (src/LibEvWebSocketServer.php)
 * \\CubicleSoft\\WebServer_TempFile - Internal or undocumented class.  (src/WebServer_TempFile.php)
 * \\CubicleSoft\\WebServer_Client - Internal or undocumented class.  (src/WebServer_Client.php)
 
