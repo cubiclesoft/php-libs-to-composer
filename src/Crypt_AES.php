@@ -2,7 +2,7 @@
 	namespace CubicleSoft;
 ?><?php
 namespace {
-
+if (!class_exists('Crypt_Rijndael')) {
 	include_once 'Rijndael.php';
 }
 

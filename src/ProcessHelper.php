@@ -230,7 +230,7 @@
 			$ip = substr($info, 0, $pos);
 			$port = (int)substr($info, $pos + 1);
 
-
+			if (!class_exists("\\CubicleSoft\\CSPRNG", false))  $token = bin2hex(random_bytes(64));
 			else
 			{
 				$rng = new \CubicleSoft\CSPRNG();
