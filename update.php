@@ -41,7 +41,7 @@
 		{
 			$line = trim($line);
 
-			if (substr($line, 0, 18) === "if (!class_exists(")  $lines[$num] = "";
+			if (substr($line, 0, 18) === "if (!class_exists(" && stripos($line, "require_once") !== false)  $lines[$num] = "";
 		}
 		$data = implode("\n", $lines);
 
